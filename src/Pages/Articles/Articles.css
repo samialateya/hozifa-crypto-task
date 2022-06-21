@@ -1,0 +1,17 @@
+.article{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    background-color: black;
+}
+
+.article-title {
+    margin-top: 100px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+color: #ffffff;
+}

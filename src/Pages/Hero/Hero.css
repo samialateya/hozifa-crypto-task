@@ -1,0 +1,18 @@
+.hero{
+    background-image: url('../../../public/assets/light-bg.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    width: 100%;
+    height: 100vh;
+}
+
+.hero-title {
+    margin-top: 100px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+color: #ffffff;
+}

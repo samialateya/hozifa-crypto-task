@@ -1,0 +1,9 @@
+.form-check-input{
+    height:12px;
+    margin-top:8px;
+}
+
+.form-check [value=checked] {
+    background-color: black;
+}
+

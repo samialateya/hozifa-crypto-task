@@ -1,0 +1,20 @@
+.features{
+  background-image: url('../../../public/assets/light-bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  padding: 50px;
+}
+
+.features-content{
+  height: 100%;
+  display: flex;
+  margin: 20px 0px;
+  border: 1px solid gold;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+}
